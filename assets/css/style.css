@@ -8,7 +8,6 @@ body {
     background-color: #d9dcd6;
 }
 
-/* removed .header class */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -25,7 +24,6 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
-/* changed div to nav */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -34,12 +32,10 @@ header nav {
     font-size: 20px;
 }
 
-/* changed div to nav */
 header nav ul {
     list-style-type: none;
 }
 
-/* changed div to nav */
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -73,7 +69,7 @@ p {
     margin-left: 25px;
 }
 
-.content {
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
